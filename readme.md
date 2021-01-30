@@ -1,4 +1,4 @@
-<h1><img src='brand/logo/color/FTCLib.svg' height='128px' alt='FTCLib'></h1>
+a<h1><img src='brand/logo/color/FTCLib.svg' height='128px' alt='FTCLib'></h1>
 
 *Logo produced by Xing from FTC Team 15303*
 
